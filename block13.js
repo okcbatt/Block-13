@@ -89,9 +89,9 @@ function compare(param1A, param1B, param2A, param2B){
     }
 }
 
-console.log(compare("cat", "cat", 6, "6"))
-console.log(compare("five", 5, "dog", "dawg"))
-console.log(compare(0, false, "horse", "horse"))
-console.log(compare("eight", "eight", "ate", "ate"))
-console.log(compare(11, "eleven", "four", "for"))
-console.log(compare("cake", "cake", "pie", "pie"))
+// console.log(compare("cat", "cat", 6, "6"))
+// console.log(compare("five", 5, "dog", "dawg"))
+// console.log(compare(0, false, "horse", "horse"))
+// console.log(compare("eight", "eight", "ate", "ate"))
+// console.log(compare(11, "eleven", "four", "for"))
+// console.log(compare("cake", "cake", "pie", "pie"))
